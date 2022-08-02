@@ -1,6 +1,6 @@
 {
   "name": "zkp-merkle-airdrop-lib",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Library for interacting with the zk merkle tree.",
   "main": "lib/index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "circomlibjs": "0.0.8",
-    "snarkjs-fix": "0.4.26"
+    "snarkjs-fix": "0.4.27"
   }
 }

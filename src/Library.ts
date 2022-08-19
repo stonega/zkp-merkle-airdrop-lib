@@ -1,7 +1,7 @@
 /**
  * Library which abstracts away much of the details required to interact with the private airdrop contract.
  */
-const snarkjs = require("snarkjs");
+const snarkjs = require("snarkjs-fix");
 const circomlibjs = require('circomlibjs');
 const wc = require("./witness_calculator.js");
 
